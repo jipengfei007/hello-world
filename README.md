@@ -1,2 +1,4 @@
 # hello-world
-A new start
+#A new start of python
+def add(a,b):
+    return a+b
